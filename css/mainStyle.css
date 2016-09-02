@@ -1,0 +1,198 @@
+body {
+  background: url("http://i58.photobucket.com/albums/g251/MindShaver/catanBG_zpsm7tibn7d.jpg") no-repeat center center fixed;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+.skillList {
+  color: #000;
+  border: 1px solid white;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 20px;
+  font-family: Verdana, helvetica, sans-serif;
+}
+
+#accordion {
+  max-width: 300px;
+  margin: 0 auto 20px auto;
+}
+
+
+.home {
+  position: relative;
+  padding-top: 70px;
+  min-height: 110vh;
+  background-color: #fff;
+}
+
+.events {
+  position: relative;
+  padding-top: 70px;
+  min-height: 100vh;
+  background-color: #2c82b6;
+  color: #fff;
+}
+
+.eventThumbs{
+  max-width: 300px;
+  margin: 5px auto 5px auto;
+}
+
+.eventText {
+  max-width: 300px;
+  margin: 10px auto 10px auto;
+}
+
+.eventTitle {
+  max-width: 300px;
+  font-family: lobster;
+  color: #fff;
+  margin: 15px auto 15px auto;
+}
+
+.eventTitle a {
+  color: #fff;
+}
+
+.news {
+  position: relative;
+  padding-top: 70px;
+  min-height: 100vh;
+  background-color: #a54848;
+}
+
+.about {
+  position: relative;
+  padding-top: 70px;
+  min-height: 100vh;
+  background-color: #2c82b6;
+}
+
+.contact {
+  position: relative;
+  padding-top: 70px;
+  min-height: 100vh;
+  background-color: #2f4f4f;
+}
+
+
+
+.mainLogo {
+  width: 400px;
+  height: 300px;
+  margin: 0px auto;
+  padding: 10px;
+}
+.navbar-brand {
+  font-family: lobster;
+   
+}
+
+.contactTitle {
+  padding-top: 50px;
+}
+
+.contactImg {
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+.form-control {
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}
+
+.form-group{
+  width: 400px;
+  margin: 0 auto;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  background-color: #ff0000;
+  color: #FFF;
+  display: block;
+  margin-top: 40px;
+  margin-left: 100px;
+  font-size: 50px;
+  border-radius: 10px;
+  -webkit-box-shadow: 1px -1px 12px 0px rgba(0, 0, 0, 0.37);
+  -moz-box-shadow: 1px -1px 12px 0px rgba(0, 0, 0, 0.37);
+  box-shadow: 1px -1px 12px 0px rgba(0, 0, 0, 0.37);
+}
+
+h1 {
+  color: white;
+}
+
+.header {
+  font-family: lobster;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.featureImg {
+  width: 600px;
+  height: 350px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+
+.articleTitle {
+  font-family: lobster;
+  color: #fff;
+}
+
+.thumbs{
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.preview {
+  color:#fff;
+  max-width: 400px;
+  display: block;
+  margin: 0 auto 30px auto;
+  text-align: left;
+}
+
+.subHead{
+  color: #fff;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.wrapper{
+  max-width: 1040px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  background-color: #ccc;
+  width: 100%;
+  font-size: 18px;
+  position: fixed;
+  bottom: 0;
+  display: inline-block; 
+  line-height: 20px;
+}
+
+.navbar-right {
+  padding-right: 20px;
+}
+
+.copy{
+  margin-top: 10px;
+  text-align: center;
+}
+
