@@ -6,6 +6,11 @@ $(document).ready(function () {
         
       });
   
+  $( "#accordion2" ).accordion({
+          collapsible: true
+        
+      });
+  
   
   $('.mainLogo').hide().fadeIn("slow");
   
@@ -23,4 +28,6 @@ $(document).ready(function () {
   
  
     });
+
+
 
