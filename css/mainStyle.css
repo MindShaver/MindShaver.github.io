@@ -23,6 +23,7 @@ body {
 #accordion2 {
   max-width: 400px;
   margin: 0 auto 20px auto;
+  
 }
 
 
@@ -251,3 +252,29 @@ td {
 table {
   border: 2px solid #777;
 }
+
+
+
+.form-layout {
+  
+  max-width: 600px;
+  margin: 30px auto 0 auto;
+  
+}
+
+label {
+  color: #fff;
+}
+
+textarea {
+  width: 100%;
+  
+}
+
+#submitButton {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
