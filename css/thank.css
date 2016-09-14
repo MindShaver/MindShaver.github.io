@@ -1,0 +1,61 @@
+body {
+  background: url("http://i58.photobucket.com/albums/g251/MindShaver/catanBG_zpsm7tibn7d.jpg") no-repeat center center fixed;
+  background-size: cover;
+  overflow-x: hidden;
+}
+
+
+
+
+.home {
+  position: relative;
+  padding-top: 70px;
+  min-height: 110vh;
+  background-color: #fff;
+  
+  
+}
+
+.mainLogo {
+  width: 400px;
+  height: 300px;
+  margin: 0px auto;
+  padding: 10px;
+}
+.navbar-brand {
+  font-family: lobster;
+   
+}
+
+.btn{
+  margin: 40px auto;
+  width: 200px;
+  height: 50px;
+ 
+}
+
+.backButton {
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+.wrapper{
+  max-width: 1040px;
+  margin: 0 auto 40px auto;
+}
+
+footer {
+  text-align: center;
+  background-color: #ccc;
+  width: 100%;
+  font-size: 18px;
+  position: fixed;
+  bottom: 0;
+  display: inline-block; 
+  line-height: 20px;
+}
+
+.navbar-right {
+  padding-right: 20px;
+}
