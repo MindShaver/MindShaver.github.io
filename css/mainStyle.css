@@ -170,7 +170,7 @@ h1 {
 
 .wrapper{
   max-width: 1040px;
-  margin: 0 auto;
+  margin: 0 auto 40px auto;
 }
 
 footer {
@@ -274,6 +274,11 @@ textarea {
 #submitButton {
   display: block;
   margin: 0 auto;
+}
+
+
+.contactInfo {
+  margin: 20px auto;
 }
 
 
