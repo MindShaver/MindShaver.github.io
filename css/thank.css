@@ -2,6 +2,7 @@ body {
   background: url("http://i58.photobucket.com/albums/g251/MindShaver/catanBG_zpsm7tibn7d.jpg") no-repeat center center fixed;
   background-size: cover;
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 
