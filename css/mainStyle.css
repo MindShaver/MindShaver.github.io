@@ -171,6 +171,7 @@ h1 {
 .wrapper{
   max-width: 1040px;
   margin: 0 auto 40px auto;
+  height: auto !important;
 }
 
 footer {
